@@ -1,0 +1,9 @@
+.env
+*.db
+youtube_token.json
+client_secrets.json
+__pycache__/
+assets/audio_raw/*
+assets/audio_exports/*
+!assets/audio_raw/.gitkeep
+!assets/audio_exports/.gitkeep

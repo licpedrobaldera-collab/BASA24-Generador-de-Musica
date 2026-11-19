@@ -1,0 +1,11 @@
+streamlit
+pandas
+google-genai>=1.15.0
+librosa
+numpy
+pydub
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+Pillow
